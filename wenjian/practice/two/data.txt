@@ -1,0 +1,6 @@
+﻿{
+	"test": 
+    		{"csdn": "csdn", "expect": "YYF","username2": "bb", "password2": "002"},
+	"register": 
+			{"username3": "cc", "password3": "003","username4": "dd", "password4": "004"}
+}
