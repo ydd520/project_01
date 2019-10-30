@@ -3,4 +3,4 @@
 
 
 
-print ('SUCCESSED!')
+print ('success!')
